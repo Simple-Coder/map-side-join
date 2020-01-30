@@ -1,0 +1,12 @@
+20170710	Item{id='1003', date='20170710', pid='2', amount=40, name='Huawei', price=3999.0}
+20170710	Item{id='1002', date='20170710', pid='3', amount=100, name='Xiaomi', price=2999.0}
+20170710	Item{id='1001', date='20170710', pid='4', amount=2, name='Apple', price=5999.0}
+20170711	Item{id='1004', date='20170711', pid='2', amount=23, name='Huawei', price=3999.0}
+20170823	Item{id='1005', date='20170823', pid='4', amount=55, name='Apple', price=5999.0}
+20170824	Item{id='1006', date='20170824', pid='3', amount=20, name='Xiaomi', price=2999.0}
+20170825	Item{id='1007', date='20170825', pid='2', amount=3, name='Huawei', price=3999.0}
+20170826	Item{id='1008', date='20170826', pid='4', amount=23, name='Apple', price=5999.0}
+20170912	Item{id='1009', date='20170912', pid='2', amount=10, name='Huawei', price=3999.0}
+20170913	Item{id='1010', date='20170913', pid='2', amount=2, name='Huawei', price=3999.0}
+20170914	Item{id='1011', date='20170914', pid='3', amount=14, name='Xiaomi', price=2999.0}
+20170915	Item{id='1012', date='20170915', pid='2', amount=18, name='Huawei', price=3999.0}
